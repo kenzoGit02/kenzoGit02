@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kenzoGit02
 - 👀 I’m interested in Games
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me https://www.facebook.com/Rivas.kenz7/
 
